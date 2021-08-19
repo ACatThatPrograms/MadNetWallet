@@ -17,3 +17,5 @@ app/client/.eslintcache
 
 #PyCharm
 /.idea
+
+**/package-lock.json
